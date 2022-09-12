@@ -2,10 +2,14 @@
 
 > TourHunter API is the back-end project made by our 5-member group to give users options of tours around the world to reserve and the admins to add and delete said tours. General users can create an account to be able to reserve a tour and only admins will be able to create and delete tours. Feel free to fork this project and modify it for your own use!
 
-## Deployment
+## Live Demo Website
 
 You can find the app live [here](https://tourhunterapp.herokuapp.com
 )
+
+## Live Video
+
+https://user-images.githubusercontent.com/92594336/189766179-7e816c6c-1c63-4a85-a278-94fb2def0e0a.mp4
 
 ## Documentation
 
